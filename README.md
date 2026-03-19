@@ -101,15 +101,10 @@ I've spent the last year reverse-engineering how the brain works to build AI sys
 ## 🔥 Currently Training
 
 <div align="center">
-
-|  | Architecture | Model |
-|--|:--:|:--:|
-| **Name** | **Quatrix / Q-Compass** | **Berry-Q0** |
-| **Preview** | <img src="https://github.com/Abd0r/Abd0r/blob/main/Quasar.gif?raw=true" width="160" alt="Quatrix Architecture" /> | <img src="https://github.com/Abd0r/Abd0r/blob/main/Blueberry.gif?raw=true" width="160" alt="Berry-Q0 Model" /> |
-
+  <img src="https://github.com/Abd0r/Abd0r/blob/main/Blueberry.gif?raw=true" width="160" alt="Berry-Q0 Model" />
 </div>
 
-**Berry-Q0** is the first model trained on the Quatrix architecture — ~50M parameters, trained from scratch on a single laptop GPU (RTX 4050, 6GB VRAM). Text + vision, currently in GRPO reasoning training (R1-style, math domain).
+**Berry-Q0** — ~50M parameters, trained from scratch on a single laptop GPU (RTX 4050, 6GB VRAM). Text + vision, currently in GRPO reasoning training (R1-style, math domain).
 
 The goal: push a 50M model as far as possible on reasoning. No cloud. No team. Just architecture.
 
