@@ -8,7 +8,7 @@
   <h1>Hey, I'm Abdur 👋</h1>
 
   <p>
-    <strong>17 y/o · Independent AI Researcher · India</strong><br/>
+    <strong>17 y/o · Independent Researcher · India</strong><br/>
     Building artificial intelligence that goes <em>beyond token prediction</em>
   </p>
 
@@ -39,9 +39,9 @@
 
 ## About Me
 
-I'm a self-taught AI researcher from Moradabad, India — no CS degree, no lab access, just curiosity and obsession.
+I'm a self-taught researcher working without a CS degree, a lab, or a team. I reverse-engineer how the brain works to build AI systems fundamentally different from today's transformers.
 
-I've spent the last year reverse-engineering how the brain works to build AI systems that are fundamentally different from today's transformers. My work spans novel neural architectures, training frameworks, cognitive systems, and most recently post-CMOS computing hardware — all designed to be efficient, interpretable, and closer to how intelligence actually operates.
+My work spans neural architectures, training frameworks, cognitive systems, and — most recently — post-CMOS computing hardware. Different domains, same approach: rebuild from first principles, and eliminate what everyone else assumed was necessary.
 
 ---
 
