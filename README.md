@@ -41,11 +41,24 @@
 
 I'm a self-taught AI researcher from Moradabad, India — no CS degree, no lab access, just curiosity and obsession.
 
-I've spent the last year reverse-engineering how the brain works to build AI systems that are fundamentally different from today's transformers. My work spans novel architectures, training frameworks, and cognitive systems — all designed to be efficient, interpretable, and closer to how intelligence actually operates.
+I've spent the last year reverse-engineering how the brain works to build AI systems that are fundamentally different from today's transformers. My work spans novel neural architectures, training frameworks, cognitive systems, and most recently post-CMOS computing hardware — all designed to be efficient, interpretable, and closer to how intelligence actually operates.
 
 ---
 
 ## 🔬 Published Work
+
+### ⚛️ FEA — Free Electron Absorption Architecture
+> A **transistor-free** computing architecture on hydrogen-passivated silicon. Computation happens by resonant electron absorption in 5-atom dangling-bond clusters, not by switching. On a 3 cm² die: **14.1 TB of in-situ memory at 79 mW** — roughly 110× the M4 Max memory, at ~0.2% of the power. Memory and compute are the same atoms — no cache, no DRAM bus. My first paper outside machine learning.
+
+<a href="https://github.com/Abd0r/FEA">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20" />
+</a>
+&nbsp;
+<a href="https://doi.org/10.5281/zenodo.19559255">
+  <img src="https://img.shields.io/badge/Paper-Zenodo-blue?style=flat-square" height="20" />
+</a>
+
+---
 
 ### 🧭 Quatrix — Q-Compass Architecture
 > Replaces standard attention with **Q-Compass** — sequence mixing grounded in reinforcement learning navigation theory instead of geometric similarity. Three projections instead of four. **69% fewer attention parameters**. One mechanism handles text, vision, audio, and world modeling.
