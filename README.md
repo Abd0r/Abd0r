@@ -60,8 +60,8 @@ My work spans neural architectures, training frameworks, cognitive systems, and 
 
 ---
 
-### 🧭 Quatrix — Q-Compass Architecture
-> Replaces standard attention with **Q-Compass** — sequence mixing grounded in reinforcement learning navigation theory instead of geometric similarity. Three projections instead of four. **69% fewer attention parameters**. One mechanism handles text, vision, audio, and world modeling.
+### 🧭 Quatrix — Empirical Evaluation of Q-Compass and SAVO
+> The empirical follow-up to Q-Compass. Characterises **SAVO**, a four-projection variant whose value matrix projects the rank-*r* Hadamard product `state ⊙ action`, not the raw input. The structural consequence: an autoregressive KV-cache footprint of **2*r* floats per token per layer — decoupled from model width *H***. At rank *r*=*H*/16 the cache is **16× smaller than standard MHA at ≤1.6 ppl penalty**. The same SAVO block class trains across text, vision, audio, world-states, and four computational-oncology tasks (signature decomposition, pan-cancer classification, drug-response, 5-year survival). Single 6 GB consumer GPU. **Submitted to Nature Machine Intelligence (Apr 2026).**
 
 <a href="https://github.com/Abd0r/quatrix">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20" />
@@ -71,8 +71,12 @@ My work spans neural architectures, training frameworks, cognitive systems, and 
   <img src="https://img.shields.io/badge/PyPI-quatrix-3775A9?style=flat-square&logo=pypi&logoColor=white" height="20" />
 </a>
 &nbsp;
-<a href="https://zenodo.org/records/19104202">
-  <img src="https://img.shields.io/badge/Paper-Zenodo-blue?style=flat-square" height="20" />
+<a href="https://doi.org/10.5281/zenodo.19839718">
+  <img src="https://img.shields.io/badge/Quatrix-Zenodo-blue?style=flat-square" height="20" />
+</a>
+&nbsp;
+<a href="https://doi.org/10.5281/zenodo.19104202">
+  <img src="https://img.shields.io/badge/Q--Compass-Zenodo-blue?style=flat-square" height="20" />
 </a>
 
 ---
@@ -111,15 +115,13 @@ My work spans neural architectures, training frameworks, cognitive systems, and 
 
 ---
 
-## 🔥 Currently Training
+## 🚀 What's Next
 
 <div align="center">
-  <img src="https://github.com/Abd0r/Abd0r/blob/main/Blueberry.gif?raw=true" width="160" alt="Berry-Q0 Model" />
+  <img src="https://github.com/Abd0r/Abd0r/blob/main/Blueberry.gif?raw=true" width="160" alt="NanoG1" />
 </div>
 
-**Berry-Q0** — ~50M parameters, trained from scratch on a single laptop GPU (RTX 4050, 6GB VRAM). Text + vision, currently in GRPO reasoning training (R1-style, math domain).
-
-The goal: push a 50M model as far as possible on reasoning. No cloud. No team. Just architecture.
+**NanoG1** — the next chapter. Building on what Quatrix and FEA established. Details soon.
 
 ---
 
