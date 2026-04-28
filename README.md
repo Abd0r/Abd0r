@@ -118,7 +118,7 @@ My work spans neural architectures, training frameworks, cognitive systems, and 
 ## 🚀 What's Next
 
 <div align="center">
-  <img src="https://github.com/Abd0r/Abd0r/blob/main/Cell.gif?raw=true" width="200" alt="NanoG1" />
+  <img src="https://github.com/Abd0r/Abd0r/blob/main/Cell.gif?raw=true" width="250" alt="NanoG1" />
 </div>
 
 **NanoG1** — the next chapter. Building on what Quatrix and FEA established. Details soon.
