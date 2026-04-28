@@ -60,8 +60,8 @@ My work spans neural architectures, training frameworks, cognitive systems, and 
 
 ---
 
-### 🧭 Quatrix — Empirical Evaluation of Q-Compass and SAVO
-> The empirical follow-up to Q-Compass. Characterises **SAVO**, a four-projection variant whose value matrix projects the rank-*r* Hadamard product `state ⊙ action`, not the raw input. The structural consequence: an autoregressive KV-cache footprint of **2*r* floats per token per layer — decoupled from model width *H***. At rank *r*=*H*/16 the cache is **16× smaller than standard MHA at ≤1.6 ppl penalty**. The same SAVO block class trains across text, vision, audio, world-states, and four computational-oncology tasks (signature decomposition, pan-cancer classification, drug-response, 5-year survival). Single 6 GB consumer GPU.
+### 🧭 Quatrix — Q-Compass + SAVO Architecture
+> Empirical follow-up to Q-Compass. Three attention projections instead of four — content routes through a rank-*r* `state ⊙ action` matrix grounded in RL navigation. **16× smaller KV-cache** than standard attention at ≤1.6 ppl penalty. One block class trains across text, vision, audio, world states, and cancer genomics.
 
 <a href="https://github.com/Abd0r/quatrix">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20" />
@@ -118,7 +118,7 @@ My work spans neural architectures, training frameworks, cognitive systems, and 
 ## 🚀 What's Next
 
 <div align="center">
-  <img src="https://github.com/Abd0r/Abd0r/blob/main/Cell.gif?raw=true" width="250" alt="NanoG1" />
+  <img src="https://github.com/Abd0r/Abd0r/blob/main/Blueberry.gif?raw=true" width="160" alt="NanoG1" />
 </div>
 
 **NanoG1** — the next chapter. Building on what Quatrix and FEA established. Details soon.
