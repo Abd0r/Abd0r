@@ -9,7 +9,7 @@
 
   <p>
     <strong>17 y/o · Independent Researcher · India</strong><br/>
-    Building artificial intelligence that goes <em>beyond token prediction</em>
+    Building toward Artifical Intelligence's peak · One primitive at a time"</em>
   </p>
 
   <a href="https://x.com/SyedAbdurR2hman">
