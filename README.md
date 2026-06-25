@@ -1,130 +1,89 @@
-<!-- ============================================================
-     ABDUR — GitHub Profile README
-     ============================================================ -->
-
 <div align="center">
-  <img src="https://github.com/Abd0r/Abd0r/blob/main/ghost_animated.gif?raw=true" width="160" alt="Pixel Ghost" />
+  <img src="https://github.com/Abd0r/Abd0r/blob/main/ghost_animated.gif?raw=true" width="120" />
 
-  <h1>Hey, I'm Abdur 👋</h1>
+  <h2>Abdur</h2>
 
-  <p>
-    <strong>17 y/o · Independent Researcher · India</strong><br/>
-    Building toward Artifical Intelligence's peak · One primitive at a time"</em>
-  </p>
+  <p>17 · India · Self-taught</p>
 
   <a href="https://x.com/SyedAbdurR2hman">
-    <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=flat-square&logo=x&logoColor=white" height="22" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" height="20" />
   </a>
   &nbsp;
   <a href="https://huggingface.co/Abd0r">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="22" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="20" />
   </a>
   &nbsp;
   <a href="mailto:ra2157218@gmail.com">
-    <img src="https://img.shields.io/badge/Email-4285F4?style=flat-square&logo=gmail&logoColor=white" height="22" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-4285F4?style=flat-square&logo=gmail&logoColor=white" height="20" />
   </a>
   &nbsp;
   <a href="https://orcid.org/0009-0004-6611-2918">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" height="22" alt="ORCID" />
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" height="20" />
   </a>
   &nbsp;
   <a href="https://pypi.org/user/SyedAbdurR2hman/">
-    <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" height="22" alt="PyPI" />
+    <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" height="20" />
   </a>
 </div>
 
-<br/>
+---
+
+I work on neural architectures, training methods, and computing hardware — mostly trying to rebuild things from scratch rather than extend what exists.
 
 ---
 
-## About Me
+## Work
 
-I'm a self-taught researcher working without a CS degree, a lab, or a team. I reverse-engineer how the brain works to build AI systems fundamentally different from today's transformers.
+### FEA — Free Electron Absorption Architecture
 
-My work spans neural architectures, training frameworks, cognitive systems, and — most recently — post-CMOS computing hardware. Different domains, same approach: rebuild from first principles, and eliminate what everyone else assumed was necessary.
+Transistor-free computing on hydrogen-passivated silicon. Computation happens via resonant electron absorption in 5-atom dangling-bond clusters. Memory and compute share the same atoms — no cache hierarchy, no DRAM bus. On a 3 cm² die: 14.1 TB in-situ memory at 79 mW.
+
+<a href="https://github.com/Abd0r/FEA"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="18" /></a>
+&nbsp;
+<a href="https://doi.org/10.5281/zenodo.19559255"><img src="https://img.shields.io/badge/Zenodo-blue?style=flat-square" height="18" /></a>
 
 ---
 
-## 🔬 Published Work
+### Quatrix — Q-Compass + SAVO
 
-### ⚛️ FEA — Free Electron Absorption Architecture
-> A **transistor-free** computing architecture on hydrogen-passivated silicon. Computation happens by resonant electron absorption in 5-atom dangling-bond clusters, not by switching. On a 3 cm² die: **14.1 TB of in-situ memory at 79 mW** — roughly 110× the M4 Max memory, at ~0.2% of the power. Memory and compute are the same atoms — no cache, no DRAM bus. My first paper outside machine learning.
+Three attention projections instead of four. Content routes through a rank-*r* `state ⊙ action` matrix grounded in RL navigation. 16× smaller KV-cache than standard attention at ≤1.6 ppl penalty. Trains across text, vision, audio, world states, and cancer genomics under one block class.
 
-<a href="https://github.com/Abd0r/FEA">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20" />
-</a>
+<a href="https://github.com/Abd0r/quatrix"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="18" /></a>
 &nbsp;
-<a href="https://doi.org/10.5281/zenodo.19559255">
-  <img src="https://img.shields.io/badge/Paper-Zenodo-blue?style=flat-square" height="20" />
-</a>
+<a href="https://pypi.org/project/quatrix/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" height="18" /></a>
+&nbsp;
+<a href="https://doi.org/10.5281/zenodo.19839718"><img src="https://img.shields.io/badge/Quatrix-Zenodo-blue?style=flat-square" height="18" /></a>
+&nbsp;
+<a href="https://doi.org/10.5281/zenodo.19104202"><img src="https://img.shields.io/badge/Q--Compass-Zenodo-blue?style=flat-square" height="18" /></a>
 
 ---
 
-### 🧭 Quatrix — Q-Compass + SAVO Architecture
-> Empirical follow-up to Q-Compass. Three attention projections instead of four — content routes through a rank-*r* `state ⊙ action` matrix grounded in RL navigation. **16× smaller KV-cache** than standard attention at ≤1.6 ppl penalty. One block class trains across text, vision, audio, world states, and cancer genomics.
+### Artificial Neural Mesh (ANM) V0
 
-<a href="https://github.com/Abd0r/quatrix">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20" />
-</a>
+Modular multi-agent cognitive architecture. 12 specialized domain experts collaborating through Web-of-Thought reasoning.
+
+<a href="https://github.com/Abd0r/Artificial-Neural-Mesh-V0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="18" /></a>
 &nbsp;
-<a href="https://pypi.org/project/quatrix/">
-  <img src="https://img.shields.io/badge/PyPI-quatrix-3775A9?style=flat-square&logo=pypi&logoColor=white" height="20" />
-</a>
-&nbsp;
-<a href="https://doi.org/10.5281/zenodo.19839718">
-  <img src="https://img.shields.io/badge/Quatrix-Zenodo-blue?style=flat-square" height="20" />
-</a>
-&nbsp;
-<a href="https://doi.org/10.5281/zenodo.19104202">
-  <img src="https://img.shields.io/badge/Q--Compass-Zenodo-blue?style=flat-square" height="20" />
-</a>
+<a href="https://zenodo.org/records/17664259"><img src="https://img.shields.io/badge/Zenodo-blue?style=flat-square" height="18" /></a>
 
 ---
 
-### 🧠 Artificial Neural Mesh (ANM) V0
-> A modular multi-agent cognitive architecture featuring 12 specialized domain experts collaborating through **Web-of-Thought (WoT)** reasoning.
+### GEKO — Gradient-Efficient Knowledge Optimization
 
-<a href="https://github.com/Abd0r/Artificial-Neural-Mesh-V0">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20" />
-</a>
+Fine-tuning that skips samples the model already knows. Compute is routed to hard samples; mastered ones are frozen. Up to 80% compute savings at scale.
+
+<a href="https://github.com/Abd0r/GEKO"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="18" /></a>
 &nbsp;
-<a href="https://zenodo.org/records/17664259">
-  <img src="https://img.shields.io/badge/Paper-Zenodo-blue?style=flat-square" height="20" />
-</a>
-
----
-
-### ⚡ GEKO — Gradient-Efficient Knowledge Optimization
-> A plug-and-play fine-tuning framework that **skips samples the model already knows** — routing compute to hard samples and freezing mastered ones. Up to **80% compute savings** at scale.
-
-<a href="https://github.com/Abd0r/GEKO">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20" />
-</a>
+<a href="https://pypi.org/project/gekolib/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" height="18" /></a>
 &nbsp;
-<a href="https://pypi.org/project/gekolib/">
-  <img src="https://img.shields.io/badge/PyPI-gekolib-orange?style=flat-square&logo=pypi&logoColor=white" height="20" />
-</a>
+<a href="https://huggingface.co/spaces/Abd0r/GEKO"><img src="https://img.shields.io/badge/Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="18" /></a>
 &nbsp;
-<a href="https://huggingface.co/spaces/Abd0r/GEKO">
-  <img src="https://img.shields.io/badge/🤗%20Live%20Demo-HF%20Space-FFD21E?style=flat-square" height="20" />
-</a>
-&nbsp;
-<a href="https://zenodo.org/records/18177743">
-  <img src="https://img.shields.io/badge/Paper-Zenodo-blue?style=flat-square" height="20" />
-</a>
-
----
-
-## 🚀 What's Next
-
-<div align="center">
-  <img src="https://github.com/Abd0r/Abd0r/blob/main/Cell.gif?raw=true" width="250" alt="NanoG1" />
-</div>
-
-**NanoG1** — the next chapter. Building on what Quatrix and FEA established. Details soon.
+<a href="https://zenodo.org/records/18177743"><img src="https://img.shields.io/badge/Zenodo-blue?style=flat-square" height="18" /></a>
 
 ---
 
 <div align="center">
-  <sub>Built from scratch · No lab · No shortcuts</sub>
+  <img src="https://github.com/Abd0r/Abd0r/blob/main/Cell.gif?raw=true" width="200" />
+  <br/>
+  <sub>NanoG1 — coming</sub>
 </div>
