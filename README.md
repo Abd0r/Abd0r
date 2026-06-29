@@ -86,7 +86,7 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 <summary>CS</summary>
 <br/>
 
-<img src="https://img.shields.io/badge/C%20Theory-A8B9CC?style=flat-square&logo=c&logoColor=black" height="20" />
+<img src="https://img.shields.io/badge/C%20Theory%20(Self--taught)-A8B9CC?style=flat-square&logo=c&logoColor=black" height="20" />
 
 </details>
 
