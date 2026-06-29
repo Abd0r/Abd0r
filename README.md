@@ -80,11 +80,12 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 &nbsp;
 <a href="https://zenodo.org/records/18177743"><img src="https://img.shields.io/badge/Zenodo-blue?style=flat-square" height="18" /></a>
 
+## Learned
+
 <details>
-<summary>Learnt</summary>
+<summary>CS</summary>
 <br/>
 
-**CS**
 - C Theory
 
 </details>
