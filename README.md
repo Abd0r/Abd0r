@@ -86,7 +86,7 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 <summary>CS</summary>
 <br/>
 
-<a href="https://github.com/Abd0r/Notes/tree/main/C%20Theory%20(Self%20Thaught)"><img src="https://img.shields.io/badge/C%20Theory%20(Self--taught)-00599C?style=flat-square&logo=c&logoColor=white" height="20" /></a>
+<a href="https://github.com/Abd0r/Notes/tree/main/C%20Theory%20(Self%20Thaught)"><img src="https://img.shields.io/badge/C%20Theory%20(Self--taught)-283593?style=flat-square&logo=c&logoColor=white" height="20" /></a>
 &nbsp;
 <a href="https://github.com/Abd0r/Notes/tree/main/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B%20(Cod%C3%A9dex%2C%20Ch.4)-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="20" /></a>
 
