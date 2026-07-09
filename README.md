@@ -28,15 +28,15 @@
 
 ---
 
-I work on neural architectures, training methods, and computing hardware — mostly trying to rebuild things from scratch rather than extend what exists.
+I work on neural architectures, training methods, and computing hardware - mostly trying to rebuild things from scratch rather than extend what exists.
 
 ---
 
 ## Work
 
-### FEA — Free Electron Absorption Architecture
+### FEA - Free Electron Absorption Architecture
 
-Transistor-free computing on hydrogen-passivated silicon. Computation happens via resonant electron absorption in 5-atom dangling-bond clusters. Memory and compute share the same atoms — no cache hierarchy, no DRAM bus. On a 3 cm² die: 14.1 TB in-situ memory at 79 mW.
+Transistor-free computing on hydrogen-passivated silicon. Computation happens via resonant electron absorption in 5-atom dangling-bond clusters. Memory and compute share the same atoms - no cache hierarchy, no DRAM bus. On a 3 cm² die: 14.1 TB in-situ memory at 79 mW.
 
 <a href="https://github.com/Abd0r/FEA"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="18" /></a>
 &nbsp;
@@ -44,7 +44,7 @@ Transistor-free computing on hydrogen-passivated silicon. Computation happens vi
 
 ---
 
-### Quatrix — Q-Compass + SAVO
+### Quatrix - Q-Compass + SAVO
 
 Three attention projections instead of four. Content routes through a rank-*r* `state ⊙ action` matrix grounded in RL navigation. 16× smaller KV-cache than standard attention at ≤1.6 ppl penalty. Trains across text, vision, audio, world states, and cancer genomics under one block class. Validated at small scale only.
 
@@ -68,7 +68,7 @@ Modular multi-agent cognitive architecture. 12 specialized domain experts collab
 
 ---
 
-### GEKO — Gradient-Efficient Knowledge Optimization
+### GEKO - Gradient-Efficient Knowledge Optimization
 
 Fine-tuning that skips samples the model already knows. Compute is routed to hard samples; mastered ones are frozen. Up to 80% compute savings at scale.
 
@@ -97,5 +97,5 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 <div align="center">
   <img src="https://github.com/Abd0r/Abd0r/blob/main/Cell.gif?raw=true" width="200" />
   <br/>
-  <sub>NanoG1 — coming</sub>
+  <sub>NanoG1 - coming</sub>
 </div>
