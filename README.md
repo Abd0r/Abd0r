@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Abd0r/Abd0r/blob/main/ghost_animated.gif?raw=true" width="120" />
 
-  <h2>&gt; ABDUR_</h2>
+  <p><code>&gt;</code> <img src="https://github.com/Abd0r/Abd0r/blob/main/text_ABDUR.svg?raw=true" height="46" align="absmiddle" /></p>
 
   <p><code>17 :: IN :: SELF-TAUGHT</code></p>
 
