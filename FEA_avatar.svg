@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 103" shape-rendering="crispEdges"><clipPath id="faclip"><rect x="0" y="0" width="64" height="64" rx="8"/></clipPath><rect x="5" y="5" width="84" height="84" rx="16" fill="#00000022"/><polygon points="19,87 35,87 26,101" fill="#00000022"/><polygon points="14,82 30,82 21,96" fill="#FFFFFF" stroke="#0F766E" stroke-width="4" stroke-linejoin="round"/><rect x="0" y="0" width="84" height="84" rx="16" fill="#FFFFFF" stroke="#0F766E" stroke-width="4"/><rect x="18" y="80" width="8" height="8" fill="#FFFFFF"/><g transform="translate(10,10)" clip-path="url(#faclip)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 103" shape-rendering="crispEdges"><clipPath id="faclip"><rect x="0" y="0" width="64" height="64" rx="8"/></clipPath><rect x="5" y="5" width="84" height="84" rx="16" fill="#00000022"/><polygon points="19,87 35,87 26,101" fill="#00000022"/><polygon points="14,82 30,82 21,96" fill="#FFFFFF" stroke="#15803D" stroke-width="4" stroke-linejoin="round"/><rect x="0" y="0" width="84" height="84" rx="16" fill="#FFFFFF" stroke="#15803D" stroke-width="4"/><rect x="18" y="80" width="8" height="8" fill="#FFFFFF"/><g transform="translate(10,10)" clip-path="url(#faclip)">
   <!-- lattice grid (silicon atoms) -->
-  <g fill="#0F766E" opacity="0.55">
+  <g fill="#15803D" opacity="0.55">
     <rect x="8"  y="8"  width="6" height="6"/>
     <rect x="24" y="8"  width="6" height="6"/>
     <rect x="40" y="8"  width="6" height="6"/>
@@ -12,10 +12,10 @@
   </g>
 
   <!-- dangling-bond cluster (center) -->
-  <rect x="26" y="26" width="12" height="12" fill="#2DD4BF"/>
+  <rect x="26" y="26" width="12" height="12" fill="#39FF14"/>
 
   <!-- absorbed electron pulse -->
-  <circle cx="32" cy="32" r="3" fill="#0F766E">
+  <circle cx="32" cy="32" r="3" fill="#15803D">
     <animate attributeName="r" values="3;16;3" dur="2.4s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0;1" dur="2.4s" repeatCount="indefinite"/>
   </circle>
