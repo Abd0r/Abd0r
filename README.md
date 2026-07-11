@@ -31,7 +31,7 @@
 
 ## <img src="https://github.com/Abd0r/Abd0r/blob/main/text_WORK.svg?raw=true" height="46" />
 
-### <img src="https://github.com/Abd0r/Abd0r/blob/main/FEA_avatar.svg?raw=true" width="28" align="absmiddle" /> <img src="https://github.com/Abd0r/Abd0r/blob/main/FEA_title.svg?raw=true" height="34" align="absmiddle" /> Free Electron Absorption Architecture
+### <img src="https://github.com/Abd0r/Abd0r/blob/main/FEA_avatar.svg?raw=true" width="28" align="absmiddle" /> `[ FEA ]` Free Electron Absorption Architecture
 
 Transistor-free computing on hydrogen-passivated silicon. Computation happens via resonant electron absorption in 5-atom dangling-bond clusters. Memory and compute share the same atoms - no cache hierarchy, no DRAM bus. On a 3 cm² die: 14.1 TB in-situ memory at 79 mW.
 
@@ -41,7 +41,7 @@ Transistor-free computing on hydrogen-passivated silicon. Computation happens vi
 
 <img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" width="100%" />
 
-### <img src="https://github.com/Abd0r/Abd0r/blob/main/Quatrix_avatar.svg?raw=true" width="28" align="absmiddle" /> <img src="https://github.com/Abd0r/Abd0r/blob/main/Quatrix_title.svg?raw=true" height="34" align="absmiddle" /> Q-Compass + SAVO
+### <img src="https://github.com/Abd0r/Abd0r/blob/main/Quatrix_avatar.svg?raw=true" width="28" align="absmiddle" /> `[ QUATRIX ]` Q-Compass + SAVO
 
 Three attention projections instead of four. Content routes through a rank-*r* `state ⊙ action` matrix grounded in RL navigation. 16× smaller KV-cache than standard attention at ≤1.6 ppl penalty. Trains across text, vision, audio, world states, and cancer genomics under one block class. Validated at small scale only.
 
@@ -55,7 +55,7 @@ Three attention projections instead of four. Content routes through a rank-*r* `
 
 <img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" width="100%" />
 
-### <img src="https://github.com/Abd0r/Abd0r/blob/main/ANM_avatar.svg?raw=true" width="28" align="absmiddle" /> <img src="https://github.com/Abd0r/Abd0r/blob/main/ANM_title.svg?raw=true" height="34" align="absmiddle" /> Artificial Neural Mesh V0
+### <img src="https://github.com/Abd0r/Abd0r/blob/main/ANM_avatar.svg?raw=true" width="28" align="absmiddle" /> `[ ANM ]` Artificial Neural Mesh V0
 
 Modular multi-agent cognitive architecture. 12 specialized domain experts collaborating through Web-of-Thought reasoning.
 
@@ -65,7 +65,7 @@ Modular multi-agent cognitive architecture. 12 specialized domain experts collab
 
 <img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" width="100%" />
 
-### <img src="https://github.com/Abd0r/Abd0r/blob/main/GEKO_avatar.svg?raw=true" width="28" align="absmiddle" /> <img src="https://github.com/Abd0r/Abd0r/blob/main/GEKO_title.svg?raw=true" height="34" align="absmiddle" /> Gradient-Efficient Knowledge Optimization
+### <img src="https://github.com/Abd0r/Abd0r/blob/main/GEKO_avatar.svg?raw=true" width="28" align="absmiddle" /> `[ GEKO ]` Gradient-Efficient Knowledge Optimization
 
 Fine-tuning that skips samples the model already knows. Compute is routed to hard samples; mastered ones are frozen. Up to 80% compute savings at scale.
 
