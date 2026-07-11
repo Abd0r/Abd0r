@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 103" shape-rendering="crispEdges"><clipPath id="qaclip"><rect x="0" y="0" width="64" height="64" rx="8"/></clipPath><rect x="5" y="5" width="84" height="84" rx="16" fill="#00000022"/><polygon points="19,87 35,87 26,101" fill="#00000022"/><polygon points="14,82 30,82 21,96" fill="#FFFFFF" stroke="#0F766E" stroke-width="4" stroke-linejoin="round"/><rect x="0" y="0" width="84" height="84" rx="16" fill="#FFFFFF" stroke="#0F766E" stroke-width="4"/><rect x="18" y="80" width="8" height="8" fill="#FFFFFF"/><g transform="translate(10,10)" clip-path="url(#qaclip)">
   <!-- pixel ring (compass) -->
-  <g fill="#FFB000">
+  <g fill="#0F766E">
     <rect x="28" y="8"  width="8" height="8"/>
     <rect x="28" y="48" width="8" height="8"/>
     <rect x="8"  y="28" width="8" height="8"/>
@@ -12,11 +12,11 @@
   </g>
 
   <!-- center core -->
-  <rect x="28" y="28" width="8" height="8" fill="#FF6A00"/>
+  <rect x="28" y="28" width="8" height="8" fill="#2DD4BF"/>
 
   <!-- radar sweep needle -->
   <g>
-    <rect x="30" y="4" width="4" height="24" fill="#FF6A00">
+    <rect x="30" y="4" width="4" height="24" fill="#2DD4BF">
       <animate attributeName="opacity" values="1;0.4;1" dur="1.6s" repeatCount="indefinite"/>
     </rect>
     <animateTransform attributeName="transform" type="rotate"
@@ -25,4 +25,4 @@
       calcMode="discrete"
       dur="3.2s" repeatCount="indefinite"/>
   </g>
-</svg>
+</g></svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 103" shape-rendering="crispEdges"><clipPath id="gaclip"><rect x="0" y="0" width="64" height="64" rx="8"/></clipPath><rect x="5" y="5" width="84" height="84" rx="16" fill="#00000022"/><polygon points="19,87 35,87 26,101" fill="#00000022"/><polygon points="14,82 30,82 21,96" fill="#FFFFFF" stroke="#0F766E" stroke-width="4" stroke-linejoin="round"/><rect x="0" y="0" width="84" height="84" rx="16" fill="#FFFFFF" stroke="#0F766E" stroke-width="4"/><rect x="18" y="80" width="8" height="8" fill="#FFFFFF"/><g transform="translate(10,10)" clip-path="url(#gaclip)">
   <!-- gauge track -->
-  <g fill="#FFB000" opacity="0.4">
+  <g fill="#0F766E" opacity="0.4">
     <rect x="8"  y="46" width="6" height="10"/>
     <rect x="16" y="46" width="6" height="10"/>
     <rect x="24" y="46" width="6" height="10"/>
@@ -10,13 +10,13 @@
   </g>
 
   <!-- fill bar sweeping (compute routed to hard samples) -->
-  <rect x="8" y="46" width="6" height="10" fill="#FF6A00">
+  <rect x="8" y="46" width="6" height="10" fill="#2DD4BF">
     <animate attributeName="x" values="8;16;24;32;40;48;8" dur="3s" repeatCount="indefinite"/>
   </rect>
 
   <!-- frozen / mastered block -->
-  <rect x="20" y="10" width="24" height="24" fill="none" stroke="#FFB000" stroke-width="3"/>
-  <rect x="28" y="18" width="8" height="8" fill="#FF6A00">
+  <rect x="20" y="10" width="24" height="24" fill="none" stroke="#0F766E" stroke-width="3"/>
+  <rect x="28" y="18" width="8" height="8" fill="#2DD4BF">
     <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
   </rect>
-</svg>
+</g></svg>
