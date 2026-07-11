@@ -47,7 +47,7 @@ Transistor-free computing on hydrogen-passivated silicon. Computation happens vi
 
 ---
 
-### `[ QUATRIX ]` Q-Compass + SAVO
+### <img src="https://github.com/Abd0r/Abd0r/blob/main/Quatrix_avatar.svg?raw=true" width="28" align="absmiddle" /> `[ QUATRIX ]` Q-Compass + SAVO
 
 Three attention projections instead of four. Content routes through a rank-*r* `state ⊙ action` matrix grounded in RL navigation. 16× smaller KV-cache than standard attention at ≤1.6 ppl penalty. Trains across text, vision, audio, world states, and cancer genomics under one block class. Validated at small scale only.
 
