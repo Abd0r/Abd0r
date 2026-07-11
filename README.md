@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Abd0r/Abd0r/blob/main/ghost_sprite.png?raw=true" height="90" align="absmiddle" />
+  <img src="https://github.com/Abd0r/Abd0r/blob/main/ghost_sprite.svg?raw=true" height="96" align="absmiddle" />
   <img src="https://github.com/Abd0r/Abd0r/blob/main/ghost_speech.svg?raw=true" height="90" align="absmiddle" />
 
   <p><code>17 :: IN :: SELF-TAUGHT</code></p>
