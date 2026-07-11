@@ -29,8 +29,8 @@
 
 <img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" width="100%" />
 
-> neural architectures :: training methods :: computing hardware
-> rebuilt from scratch, not extended from what exists
+> interested in attention mechanisms, efficient training, and compute that doesn't need a transistor
+> 17, self-taught, building all of it from first principles
 
 ## <img src="https://github.com/Abd0r/Abd0r/blob/main/text_WORK.svg?raw=true" height="26" />
 
