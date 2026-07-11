@@ -51,7 +51,7 @@ Three attention projections instead of four. Content routes through a rank-*r* `
 &nbsp;
 <a href="https://doi.org/10.5281/zenodo.19839718"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/QUATRIX--ZENODO-0F172A?style=for-the-badge&logo=bookstack&logoColor=4ADE80"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/QUATRIX--ZENODO-DCFCE7?style=for-the-badge&logo=bookstack&logoColor=166534"><img src="https://img.shields.io/badge/QUATRIX--ZENODO-0F172A?style=for-the-badge&logo=bookstack&logoColor=4ADE80" height="20" /></picture></a>
 &nbsp;
-<a href="https://doi.org/10.5281/zenodo.19104202"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Q%2DCOMPASS--ZENODO-0F172A?style=for-the-badge&logo=bookstack&logoColor=4ADE80"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Q%2DCOMPASS--ZENODO-DCFCE7?style=for-the-badge&logo=bookstack&logoColor=166534"><img src="https://img.shields.io/badge/Q%2DCOMPASS--ZENODO-0F172A?style=for-the-badge&logo=bookstack&logoColor=4ADE80" height="20" /></picture></a>
+<a href="https://doi.org/10.5281/zenodo.19104202"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Q--COMPASS--ZENODO-0F172A?style=for-the-badge&logo=bookstack&logoColor=4ADE80"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Q--COMPASS--ZENODO-DCFCE7?style=for-the-badge&logo=bookstack&logoColor=166534"><img src="https://img.shields.io/badge/Q--COMPASS--ZENODO-0F172A?style=for-the-badge&logo=bookstack&logoColor=4ADE80" height="20" /></picture></a>
 
 <img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" width="100%" />
 
