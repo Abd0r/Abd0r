@@ -29,8 +29,8 @@
 
 <img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" width="100%" />
 
-> attention, efficient training, compute without transistors.
-> 17. self-taught. no forks, no templates, all of it from scratch.
+> attention mechanisms, efficient training, compute without transistors.
+> all of it built from scratch.
 
 ## <img src="https://github.com/Abd0r/Abd0r/blob/main/text_WORK.svg?raw=true" height="26" />
 
