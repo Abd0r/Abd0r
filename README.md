@@ -39,11 +39,11 @@
 
 ### `[ FEA ]` Free Electron Absorption Architecture
 
-Transistor-free computing on hydrogen-passivated silicon. Computation happens via resonant electron absorption in 5-atom dangling-bond clusters. Memory and compute share the same atoms — no cache hierarchy, no DRAM bus. On a 3 cm² die: 14.1 TB in-situ memory at 79 mW.
+Transistor-free computing on hydrogen-passivated silicon. Computation happens via resonant electron absorption in 5-atom dangling-bond clusters. Memory and compute share the same atoms - no cache hierarchy, no DRAM bus. On a 3 cm² die: 14.1 TB in-situ memory at 79 mW.
 
 <a href="https://github.com/Abd0r/FEA"><img src="https://img.shields.io/badge/GITHUB-0D0221?style=for-the-badge&logo=github&logoColor=00F5FF" height="20" /></a>
 &nbsp;
-<a href="https://doi.org/10.5281/zenodo.19559255"><img src="https://img.shields.io/badge/ZENODO-0D0221?style=for-the-badge&logoColor=FF2EC4" height="20" /></a>
+<a href="https://doi.org/10.5281/zenodo.19559255"><img src="https://img.shields.io/badge/ZENODO-0D0221?style=for-the-badge&logo=bookstack&logoColor=FF2EC4" height="20" /></a>
 
 ---
 
@@ -55,9 +55,9 @@ Three attention projections instead of four. Content routes through a rank-*r* `
 &nbsp;
 <a href="https://pypi.org/project/quatrix/"><img src="https://img.shields.io/badge/PYPI-0D0221?style=for-the-badge&logo=pypi&logoColor=00F5FF" height="20" /></a>
 &nbsp;
-<a href="https://doi.org/10.5281/zenodo.19839718"><img src="https://img.shields.io/badge/QUATRIX-ZENODO-0D0221?style=for-the-badge&logoColor=FF2EC4" height="20" /></a>
+<a href="https://doi.org/10.5281/zenodo.19839718"><img src="https://img.shields.io/badge/QUATRIX-ZENODO-0D0221?style=for-the-badge&logo=bookstack&logoColor=FF2EC4" height="20" /></a>
 &nbsp;
-<a href="https://doi.org/10.5281/zenodo.19104202"><img src="https://img.shields.io/badge/Q--COMPASS-ZENODO-0D0221?style=for-the-badge&logoColor=FF2EC4" height="20" /></a>
+<a href="https://doi.org/10.5281/zenodo.19104202"><img src="https://img.shields.io/badge/Q--COMPASS-ZENODO-0D0221?style=for-the-badge&logo=bookstack&logoColor=FF2EC4" height="20" /></a>
 
 ---
 
@@ -67,7 +67,7 @@ Modular multi-agent cognitive architecture. 12 specialized domain experts collab
 
 <a href="https://github.com/Abd0r/Artificial-Neural-Mesh-V0"><img src="https://img.shields.io/badge/GITHUB-0D0221?style=for-the-badge&logo=github&logoColor=00F5FF" height="20" /></a>
 &nbsp;
-<a href="https://zenodo.org/records/17664259"><img src="https://img.shields.io/badge/ZENODO-0D0221?style=for-the-badge&logoColor=FF2EC4" height="20" /></a>
+<a href="https://zenodo.org/records/17664259"><img src="https://img.shields.io/badge/ZENODO-0D0221?style=for-the-badge&logo=bookstack&logoColor=FF2EC4" height="20" /></a>
 
 ---
 
@@ -81,9 +81,9 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 &nbsp;
 <a href="https://huggingface.co/spaces/Abd0r/GEKO"><img src="https://img.shields.io/badge/DEMO-0D0221?style=for-the-badge&logo=huggingface&logoColor=FF2EC4" height="20" /></a>
 &nbsp;
-<a href="https://zenodo.org/records/18177743"><img src="https://img.shields.io/badge/ZENODO-0D0221?style=for-the-badge&logoColor=FF2EC4" height="20" /></a>
+<a href="https://zenodo.org/records/18177743"><img src="https://img.shields.io/badge/ZENODO-0D0221?style=for-the-badge&logo=bookstack&logoColor=FF2EC4" height="20" /></a>
 
-## `// LEARNED` — [full log](https://github.com/Abd0r/Notes)
+## `// LEARNED` - [full log](https://github.com/Abd0r/Notes)
 
 <details>
 <summary><code>&gt; CS</code></summary>
