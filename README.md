@@ -29,10 +29,7 @@
 
 <img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" width="100%" />
 
-> attention mechanisms, efficient training, compute without transistors.
-> all of it built from scratch.
-
-## <img src="https://github.com/Abd0r/Abd0r/blob/main/text_WORK.svg?raw=true" height="26" />
+## <img src="https://github.com/Abd0r/Abd0r/blob/main/text_WORK.svg?raw=true" height="46" />
 
 ### <img src="https://github.com/Abd0r/Abd0r/blob/main/FEA_avatar.svg?raw=true" width="28" align="absmiddle" /> `[ FEA ]` Free Electron Absorption Architecture
 
@@ -80,7 +77,7 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 &nbsp;
 <a href="https://zenodo.org/records/18177743"><img src="https://img.shields.io/badge/ZENODO-0B0800?style=for-the-badge&logo=bookstack&logoColor=FF6A00" height="20" /></a>
 
-## <a href="https://github.com/Abd0r/Notes"><img src="https://github.com/Abd0r/Abd0r/blob/main/text_LEARNED.svg?raw=true" height="26" /></a>
+## <a href="https://github.com/Abd0r/Notes"><img src="https://github.com/Abd0r/Abd0r/blob/main/text_LEARNED.svg?raw=true" height="46" /></a>
 
 <details>
 <summary><code>&gt; CS</code></summary>
