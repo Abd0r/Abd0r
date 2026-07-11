@@ -29,7 +29,8 @@
 
 <img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" width="100%" />
 
-> AI, ML, and computer science, focused on attention mechanisms, efficient training, and compute without transistors.
+> attention mechanisms, efficient training, compute without transistors.
+> all of it built from scratch.
 
 ## <img src="https://github.com/Abd0r/Abd0r/blob/main/text_WORK.svg?raw=true" height="26" />
 
