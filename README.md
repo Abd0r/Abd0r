@@ -28,12 +28,8 @@
 
 <br/>
 
-```
-////////////////////////////////////////////////////////////////
-  neural architectures :: training methods :: computing hardware
-  rebuilt from scratch, not extended from what exists
-////////////////////////////////////////////////////////////////
-```
+> neural architectures :: training methods :: computing hardware
+> rebuilt from scratch, not extended from what exists
 
 ## `// WORK`
 
@@ -95,9 +91,7 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 
 </details>
 
-```
-////////////////////////////////////////////////////////////////
-```
+---
 
 <div align="center">
   <img src="https://github.com/Abd0r/Abd0r/blob/main/Cell.gif?raw=true" width="200" />
