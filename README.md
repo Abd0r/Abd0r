@@ -2,8 +2,6 @@
   <img src="https://github.com/Abd0r/Abd0r/blob/main/ghost_sprite.svg?raw=true" height="90" align="absmiddle" />
   <img src="https://github.com/Abd0r/Abd0r/blob/main/ghost_speech.svg?raw=true" height="90" align="absmiddle" />
 
-  <p><code>&gt;</code> <img src="https://github.com/Abd0r/Abd0r/blob/main/text_ABDUR.svg?raw=true" height="46" align="absmiddle" /></p>
-
   <p><code>17 :: IN :: SELF-TAUGHT</code></p>
 
   <a href="https://x.com/SyedAbdurR2hman">
