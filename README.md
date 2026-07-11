@@ -92,7 +92,11 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 <img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" width="100%" />
 
 <div align="center">
-  <img src="https://github.com/Abd0r/Abd0r/blob/main/Cell.gif?raw=true" width="200" />
+  <img src="https://github.com/Abd0r/Abd0r/blob/main/nanog_avatar.svg?raw=true" width="140" />
   <br/>
-  <code>&gt; NANOG1 :: LOADING...</code>
+  <code>&gt; NANOG1 :: ~200-300M param cancer foundation model, trained on multimodal oncology data (histopathology, radiology, TCGA) via Quatrix</code>
+  <br/><br/>
+  <img src="https://github.com/Abd0r/Abd0r/blob/main/loading_bar.svg?raw=true" width="220" />
+  <br/>
+  <code>&gt; still training, still loading</code>
 </div>
