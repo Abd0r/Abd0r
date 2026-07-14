@@ -77,6 +77,20 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 &nbsp;
 <a href="https://zenodo.org/records/18177743"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ZENODO-0F172A?style=for-the-badge&logo=bookstack&logoColor=4ADE80"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ZENODO-DCFCE7?style=for-the-badge&logo=bookstack&logoColor=166534"><img src="https://img.shields.io/badge/ZENODO-0F172A?style=for-the-badge&logo=bookstack&logoColor=4ADE80" height="20" alt="ZENODO badge"/></picture></a>
 
+<img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" alt="pixel dashed divider" width="100%" />
+
+## <img src="https://github.com/Abd0r/Abd0r/blob/main/text_HAM.svg?raw=true" alt="H.A.M section heading" height="46" />
+
+### <img src="https://github.com/Abd0r/Abd0r/blob/main/HAM_avatar.svg?raw=true" alt="H.A.M avatar: blue orb personal agent" width="28" align="absmiddle" /> `[ H.A.M ]` Hyper-Intuitive Analytical Mechanism
+
+My personal agent — research, code, PR salvage, experiments, paper tracking, machine ops, and day-to-day logistics. Built on top of [Hermes Agent](https://github.com/NousResearch/hermes-agent) (Nous Research). Still early-stage and not fully developed; growing with the work, not a finished product.
+
+<a href="https://github.com/NousResearch/hermes-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HERMES%20AGENT-0F172A?style=for-the-badge&logo=github&logoColor=39FF14"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HERMES%20AGENT-DCFCE7?style=for-the-badge&logo=github&logoColor=15803D"><img src="https://img.shields.io/badge/HERMES%20AGENT-0F172A?style=for-the-badge&logo=github&logoColor=39FF14" height="20" alt="Hermes Agent badge"/></picture></a>
+&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/STATUS-EARLY%20STAGE-0F172A?style=for-the-badge&logoColor=38BDF8"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/STATUS-EARLY%20STAGE-DCFCE7?style=for-the-badge&logoColor=0284C7"><img src="https://img.shields.io/badge/STATUS-EARLY%20STAGE-0F172A?style=for-the-badge&logoColor=38BDF8" height="20" alt="Early stage badge"/></picture>
+&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ROLE-RESEARCH%20%2B%20CODE%20%2B%20OPS-0F172A?style=for-the-badge&logoColor=4ADE80"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ROLE-RESEARCH%20%2B%20CODE%20%2B%20OPS-DCFCE7?style=for-the-badge&logoColor=166534"><img src="https://img.shields.io/badge/ROLE-RESEARCH%20%2B%20CODE%20%2B%20OPS-0F172A?style=for-the-badge&logoColor=4ADE80" height="20" alt="Role badge"/></picture>
+
 ## <a href="https://github.com/Abd0r/Notes"><img src="https://github.com/Abd0r/Abd0r/blob/main/text_LEARNED.svg?raw=true" alt="LEARNED section heading, links to Notes repo" height="46" /></a>
 
 <details>

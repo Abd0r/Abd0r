@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 103" shape-rendering="crispEdges">
+  <clipPath id="hamclip"><rect x="0" y="0" width="64" height="64" rx="8"/></clipPath>
+  <rect x="5" y="5" width="84" height="84" rx="16" fill="#00000022"/>
+  <polygon points="19,87 35,87 26,101" fill="#00000022"/>
+  <polygon points="14,82 30,82 21,96" fill="#FFFFFF" stroke="#15803D" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="0" y="0" width="84" height="84" rx="16" fill="#FFFFFF" stroke="#15803D" stroke-width="4"/>
+  <rect x="18" y="80" width="8" height="8" fill="#FFFFFF"/>
+  <g transform="translate(10,10)" clip-path="url(#hamclip)">
+    <!-- outer ring -->
+    <rect x="18" y="6" width="28" height="4" fill="#0EA5E9"/>
+    <rect x="18" y="54" width="28" height="4" fill="#0EA5E9"/>
+    <rect x="6" y="18" width="4" height="28" fill="#0EA5E9"/>
+    <rect x="54" y="18" width="4" height="28" fill="#0EA5E9"/>
+    <rect x="10" y="10" width="8" height="8" fill="#0284C7"/>
+    <rect x="46" y="10" width="8" height="8" fill="#0284C7"/>
+    <rect x="10" y="46" width="8" height="8" fill="#0284C7"/>
+    <rect x="46" y="46" width="8" height="8" fill="#0284C7"/>
+    <!-- core orb -->
+    <rect x="22" y="22" width="20" height="20" fill="#0EA5E9"/>
+    <rect x="26" y="26" width="12" height="12" fill="#7DD3FC"/>
+    <rect x="28" y="28" width="4" height="4" fill="#E0F2FE">
+      <animate attributeName="fill" values="#E0F2FE;#38BDF8;#E0F2FE" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+    <!-- pulse ring -->
+    <rect x="18" y="18" width="28" height="4" fill="#38BDF8" opacity="0.5">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="18" y="42" width="28" height="4" fill="#38BDF8" opacity="0.5">
+      <animate attributeName="opacity" values="0.9;0.2;0.9" dur="2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
