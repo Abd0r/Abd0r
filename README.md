@@ -91,15 +91,15 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 
 <img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" alt="pixel dashed divider" width="100%" />
 
-## <img src="https://github.com/Abd0r/Abd0r/blob/main/text_HAM.svg?raw=true" alt="H.A.M section heading" height="46" />
+## <img src="https://github.com/Abd0r/Abd0r/blob/main/text_HAM.svg?raw=true" alt="H.A.M" height="46" />
 
-### <img src="https://github.com/Abd0r/Abd0r/blob/main/HAM_avatar.svg?raw=true" alt="H.A.M avatar: pixel terminal personal agent" width="28" align="absmiddle" /> `[ H.A.M ]` Hyper-Intuitive Analytical Mechanism
+### <img src="https://github.com/Abd0r/Abd0r/blob/main/HAM_avatar.svg?raw=true" alt="H.A.M" width="28" align="absmiddle" /> `[ H.A.M ]`
 
-My personal agent, running on [Hermes Agent](https://github.com/NousResearch/hermes-agent) (Nous Research). Sits with me on research, code, experiments, PRs, papers, and the machine. Early stage. Still rough, still growing with the work.
+Personal agent on [Hermes Agent](https://github.com/NousResearch/hermes-agent) (Nous Research). Research, code, experiments, PRs, papers, machine work. Early stage. Not finished.
 
-<a href="https://github.com/NousResearch/hermes-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HERMES%20AGENT-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HERMES%20AGENT-E0F2FE?style=for-the-badge&logo=github&logoColor=0284C7"><img src="https://img.shields.io/badge/HERMES%20AGENT-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF" height="20" alt="Hermes Agent badge"/></picture></a>
+<a href="https://github.com/NousResearch/hermes-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HERMES%20AGENT-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HERMES%20AGENT-E0F2FE?style=for-the-badge&logo=github&logoColor=0284C7"><img src="https://img.shields.io/badge/HERMES%20AGENT-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF" height="20" alt="Hermes Agent"/></picture></a>
 &nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/STATUS-EARLY%20STAGE-0F172A?style=for-the-badge&labelColor=0F172A&logo=windowsterminal&logoColor=00E5FF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/STATUS-EARLY%20STAGE-E0F2FE?style=for-the-badge&labelColor=E0F2FE&logo=windowsterminal&logoColor=0284C7"><img src="https://img.shields.io/badge/STATUS-EARLY%20STAGE-0F172A?style=for-the-badge&labelColor=0F172A&logo=windowsterminal&logoColor=00E5FF" height="20" alt="Status early stage badge"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EARLY%20STAGE-0F172A?style=for-the-badge&logo=windowsterminal&logoColor=00E5FF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/EARLY%20STAGE-E0F2FE?style=for-the-badge&logo=windowsterminal&logoColor=0284C7"><img src="https://img.shields.io/badge/EARLY%20STAGE-0F172A?style=for-the-badge&logo=windowsterminal&logoColor=00E5FF" height="20" alt="Early stage"/></picture>
 
 <img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" alt="pixel dashed divider" width="100%" />
 
