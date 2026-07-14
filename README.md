@@ -95,13 +95,11 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 
 ### <img src="https://github.com/Abd0r/Abd0r/blob/main/HAM_avatar.svg?raw=true" alt="H.A.M avatar: pixel terminal personal agent" width="28" align="absmiddle" /> `[ H.A.M ]` Hyper-Intuitive Analytical Mechanism
 
-Personal agent built on top of [Hermes Agent](https://github.com/NousResearch/hermes-agent) (Nous Research). Helps with research, code, PR work, experiments, paper tracking, machine ops, and day-to-day logistics. Still early stage and not fully developed. Growing with the work, not a finished product.
+My personal agent, running on [Hermes Agent](https://github.com/NousResearch/hermes-agent) (Nous Research). Sits with me on research, code, experiments, PRs, papers, and the machine. Early stage. Still rough, still growing with the work.
 
 <a href="https://github.com/NousResearch/hermes-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HERMES%20AGENT-0F172A?style=for-the-badge&logo=github&logoColor=39FF14"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HERMES%20AGENT-DCFCE7?style=for-the-badge&logo=github&logoColor=15803D"><img src="https://img.shields.io/badge/HERMES%20AGENT-0F172A?style=for-the-badge&logo=github&logoColor=39FF14" height="20" alt="Hermes Agent badge"/></picture></a>
 &nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/STATUS-EARLY%20STAGE-0F172A?style=for-the-badge&labelColor=0F172A&logo=windowsterminal&logoColor=39FF14"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/STATUS-EARLY%20STAGE-DCFCE7?style=for-the-badge&labelColor=DCFCE7&logo=windowsterminal&logoColor=15803D"><img src="https://img.shields.io/badge/STATUS-EARLY%20STAGE-0F172A?style=for-the-badge&labelColor=0F172A&logo=windowsterminal&logoColor=39FF14" height="20" alt="Status early stage badge"/></picture>
-&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ROLE-RESEARCH%20%2B%20CODE%20%2B%20OPS-0F172A?style=for-the-badge&labelColor=0F172A&logo=gnubash&logoColor=4ADE80"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ROLE-RESEARCH%20%2B%20CODE%20%2B%20OPS-DCFCE7?style=for-the-badge&labelColor=DCFCE7&logo=gnubash&logoColor=166534"><img src="https://img.shields.io/badge/ROLE-RESEARCH%20%2B%20CODE%20%2B%20OPS-0F172A?style=for-the-badge&labelColor=0F172A&logo=gnubash&logoColor=4ADE80" height="20" alt="Role badge"/></picture>
 
 <img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" alt="pixel dashed divider" width="100%" />
 
