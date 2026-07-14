@@ -89,19 +89,19 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 
 </details>
 
-<img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" alt="pixel dashed divider" width="100%" />
+<img src="https://github.com/Abd0r/Abd0r/blob/main/divider_ham.svg?raw=true" alt="pixel divider green-blue lightning" width="100%" />
 
-## <img src="https://github.com/Abd0r/Abd0r/blob/main/text_HAM.svg?raw=true" alt="H.A.M" height="46" />
+## <img src="https://github.com/Abd0r/Abd0r/blob/main/text_HAM.svg?raw=true" alt="H.A.M section heading" height="46" />
 
-### <img src="https://github.com/Abd0r/Abd0r/blob/main/HAM_avatar.svg?raw=true" alt="H.A.M" width="28" align="absmiddle" /> `[ H.A.M ]`
+### <img src="https://github.com/Abd0r/Abd0r/blob/main/HAM_avatar.svg?raw=true" alt="H.A.M icon: pixel terminal agent" width="28" align="absmiddle" /> `[ H.A.M ]` Hyper-Intuitive Analytical Mechanism
 
-Personal agent on [Hermes Agent](https://github.com/NousResearch/hermes-agent) (Nous Research). Research, code, experiments, PRs, papers, machine work. Early stage. Not finished.
+Personal agent on top of [Hermes Agent](https://github.com/NousResearch/hermes-agent) (Nous Research). Research, coding, PR work, experiments, paper tracking, and machine ops share one session. Early stage only - still being built.
 
-<a href="https://github.com/NousResearch/hermes-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HERMES%20AGENT-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HERMES%20AGENT-E0F2FE?style=for-the-badge&logo=github&logoColor=0284C7"><img src="https://img.shields.io/badge/HERMES%20AGENT-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF" height="20" alt="Hermes Agent"/></picture></a>
+<a href="https://github.com/NousResearch/hermes-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HERMES%20AGENT-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HERMES%20AGENT-E0F2FE?style=for-the-badge&logo=github&logoColor=0284C7"><img src="https://img.shields.io/badge/HERMES%20AGENT-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF" height="20" alt="HERMES AGENT badge"/></picture></a>
 &nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EARLY%20STAGE-0F172A?style=for-the-badge&logo=windowsterminal&logoColor=00E5FF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/EARLY%20STAGE-E0F2FE?style=for-the-badge&logo=windowsterminal&logoColor=0284C7"><img src="https://img.shields.io/badge/EARLY%20STAGE-0F172A?style=for-the-badge&logo=windowsterminal&logoColor=00E5FF" height="20" alt="Early stage"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EARLY%20STAGE-0F172A?style=for-the-badge&logo=windowsterminal&logoColor=00E5FF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/EARLY%20STAGE-E0F2FE?style=for-the-badge&logo=windowsterminal&logoColor=0284C7"><img src="https://img.shields.io/badge/EARLY%20STAGE-0F172A?style=for-the-badge&logo=windowsterminal&logoColor=00E5FF" height="20" alt="EARLY STAGE badge"/></picture>
 
-<img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" alt="pixel dashed divider" width="100%" />
+<img src="https://github.com/Abd0r/Abd0r/blob/main/divider_ham.svg?raw=true" alt="pixel divider green-blue lightning" width="100%" />
 
 <div align="center">
   <img src="https://github.com/Abd0r/Abd0r/blob/main/nanog_avatar.svg?raw=true" alt="NanoG1 project icon: animated cell with nucleus" width="140" />
