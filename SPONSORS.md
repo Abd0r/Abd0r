@@ -19,98 +19,70 @@ Assets live in this repo (`Abd0r/Abd0r`) so paths match the profile README.
 
 ---
 
-## Full description (GitHub-flavored Markdown)
+## Full description (GitHub-flavored Markdown, **under 5000 chars**)
 
 ```markdown
 <div align="center">
-  <img src="https://github.com/Abd0r/Abd0r/blob/main/ghost_sprite.svg?raw=true" alt="levitating pixel-art ghost with a glowing arc reactor" height="80" />
-  <img src="https://github.com/Abd0r/Abd0r/blob/main/ghost_speech.svg?raw=true" alt="speech bubble: hello, I am Abdur" height="74" />
+  <img src="https://github.com/Abd0r/Abd0r/blob/main/ghost_sprite.svg?raw=true" alt="pixel ghost" height="72" />
+  <img src="https://github.com/Abd0r/Abd0r/blob/main/ghost_speech.svg?raw=true" alt="hello, I am Abdur" height="66" />
   <p><code>17 :: IN :: SELF-TAUGHT :: OPEN RESEARCH</code></p>
-  <a href="https://x.com/SyedAbdurR2hman"><img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=39FF14" height="22" alt="X" /></a>
-  &nbsp;
-  <a href="https://huggingface.co/Abd0r"><img src="https://img.shields.io/badge/HUGGING%20FACE-0F172A?style=for-the-badge&logo=huggingface&logoColor=4ADE80" height="22" alt="Hugging Face" /></a>
-  &nbsp;
-  <a href="https://orcid.org/0009-0004-6611-2918"><img src="https://img.shields.io/badge/ORCID-0F172A?style=for-the-badge&logo=orcid&logoColor=4ADE80" height="22" alt="ORCID" /></a>
-  &nbsp;
-  <a href="https://pypi.org/user/SyedAbdurR2hman/"><img src="https://img.shields.io/badge/PYPI-0F172A?style=for-the-badge&logo=pypi&logoColor=39FF14" height="22" alt="PyPI" /></a>
+  <a href="https://x.com/SyedAbdurR2hman"><img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=39FF14" height="20" alt="X" /></a>
+  <a href="https://huggingface.co/Abd0r"><img src="https://img.shields.io/badge/HF-0F172A?style=for-the-badge&logo=huggingface&logoColor=4ADE80" height="20" alt="HF" /></a>
+  <a href="https://orcid.org/0009-0004-6611-2918"><img src="https://img.shields.io/badge/ORCID-0F172A?style=for-the-badge&logo=orcid&logoColor=4ADE80" height="20" alt="ORCID" /></a>
+  <a href="https://pypi.org/user/SyedAbdurR2hman/"><img src="https://img.shields.io/badge/PyPI-0F172A?style=for-the-badge&logo=pypi&logoColor=39FF14" height="20" alt="PyPI" /></a>
 </div>
 
-<br/>
-
-<img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" alt="pixel dashed divider" width="100%" />
+<img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" alt="" width="100%" />
 
 ## Why sponsor
 
-I am **Syed Abdur Rehman Ali** (`@Abd0r`) - a 17-year-old independent AI researcher based in India. No institutional lab. Solo author of architecture work (Quatrix / SAVO / Q-Compass, FEA, GEKO) and the NanoG1 cancer foundation model path. Prefer open source and reproducible research.
+**Syed Abdur Rehman Ali** (`@Abd0r`) — 17, India, independent AI researcher. No lab. Solo work on architectures (Quatrix / SAVO / Q-Compass, FEA, GEKO) and **NanoG1** (cancer foundation model path). Open source when it helps.
 
-Your sponsorship buys **time and compute** - the two things a 6GB-laptop research stack cannot print from thin air.
+Sponsorship buys **time and compute** a 6GB-laptop stack cannot invent.
 
-<img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" alt="pixel dashed divider" width="100%" />
+## Where money goes
 
-## Where the money goes
+- Compute for NanoG1 + Quatrix ablations  
+- Datasets / storage for multimodal oncology work  
+- Paper + OSS maintenance (FEA, Quatrix, GEKO, Hermes Agent)  
+- Keeping research public when licenses allow  
 
-- **Compute** for NanoG1 training / ablations and Quatrix scale-ups
-- **Datasets + storage** for multimodal oncology and experiment logs
-- **Paper + OSS maintenance** - FEA, Quatrix, GEKO, Hermes Agent contributions
-- Keeping research **public** whenever licenses and ethics allow
-
-<img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" alt="pixel dashed divider" width="100%" />
+<img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" alt="" width="100%" />
 
 ## Active work
 
-### <img src="https://github.com/Abd0r/Abd0r/blob/main/FEA_avatar.svg?raw=true" alt="FEA" width="22" align="absmiddle" /> `[ FEA ]` Free Electron Absorption Architecture
+### <img src="https://github.com/Abd0r/Abd0r/blob/main/FEA_avatar.svg?raw=true" width="20" align="absmiddle" alt="" /> FEA
+Transistor-free computing on H-passivated silicon. [GitHub](https://github.com/Abd0r/FEA) · [Zenodo](https://doi.org/10.5281/zenodo.19559255)
 
-Transistor-free computing on hydrogen-passivated silicon. Memory and compute share the same atoms.
+### <img src="https://github.com/Abd0r/Abd0r/blob/main/Quatrix_avatar.svg?raw=true" width="20" align="absmiddle" alt="" /> Quatrix (Q-Compass + SAVO)
+3 attention projections instead of 4. ~16× smaller KV-cache at small-scale validation. [GitHub](https://github.com/Abd0r/quatrix) · [PyPI](https://pypi.org/project/quatrix/)
 
-<a href="https://github.com/Abd0r/FEA"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=39FF14" height="20" alt="GitHub" /></a>
-&nbsp;
-<a href="https://doi.org/10.5281/zenodo.19559255"><img src="https://img.shields.io/badge/ZENODO-0F172A?style=for-the-badge&logo=bookstack&logoColor=4ADE80" height="20" alt="Zenodo" /></a>
+### <img src="https://github.com/Abd0r/Abd0r/blob/main/GEKO_avatar.svg?raw=true" width="20" align="absmiddle" alt="" /> GEKO
+Skip samples the model already knows; route compute to hard ones. [GitHub](https://github.com/Abd0r/GEKO) · [PyPI](https://pypi.org/project/gekolib/) · [Demo](https://huggingface.co/spaces/Abd0r/GEKO)
 
-### <img src="https://github.com/Abd0r/Abd0r/blob/main/Quatrix_avatar.svg?raw=true" alt="Quatrix" width="22" align="absmiddle" /> `[ QUATRIX ]` Q-Compass + SAVO
+### <img src="https://github.com/Abd0r/Abd0r/blob/main/ANM_avatar.svg?raw=true" width="20" align="absmiddle" alt="" /> Artificial Neural Mesh V0
+Modular multi-agent architecture. [GitHub](https://github.com/Abd0r/Artificial-Neural-Mesh-V0)
 
-Three attention projections instead of four. ~16× smaller KV-cache than standard attention at small-scale validation (≤1.6 ppl penalty reported).
+<img src="https://github.com/Abd0r/Abd0r/blob/main/divider_ham.svg?raw=true" alt="" width="100%" />
 
-<a href="https://github.com/Abd0r/quatrix"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=39FF14" height="20" alt="GitHub" /></a>
-&nbsp;
-<a href="https://pypi.org/project/quatrix/"><img src="https://img.shields.io/badge/PYPI-0F172A?style=for-the-badge&logo=pypi&logoColor=39FF14" height="20" alt="PyPI" /></a>
+### <img src="https://github.com/Abd0r/Abd0r/blob/main/HAM_avatar.svg?raw=true" width="20" align="absmiddle" alt="" /> H.A.M
+Personal agent on [Hermes Agent](https://github.com/NousResearch/hermes-agent) — research, coding, PRs. Early stage.
 
-### <img src="https://github.com/Abd0r/Abd0r/blob/main/GEKO_avatar.svg?raw=true" alt="GEKO" width="22" align="absmiddle" /> `[ GEKO ]` Gradient-Efficient Knowledge Optimization
-
-Fine-tuning that skips samples the model already knows. Compute routes to hard samples.
-
-<a href="https://github.com/Abd0r/GEKO"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=39FF14" height="20" alt="GitHub" /></a>
-&nbsp;
-<a href="https://pypi.org/project/gekolib/"><img src="https://img.shields.io/badge/PYPI-0F172A?style=for-the-badge&logo=pypi&logoColor=39FF14" height="20" alt="PyPI" /></a>
-&nbsp;
-<a href="https://huggingface.co/spaces/Abd0r/GEKO"><img src="https://img.shields.io/badge/DEMO-0F172A?style=for-the-badge&logo=huggingface&logoColor=4ADE80" height="20" alt="Demo" /></a>
-
-### <img src="https://github.com/Abd0r/Abd0r/blob/main/ANM_avatar.svg?raw=true" alt="ANM" width="22" align="absmiddle" /> `[ ANM ]` Artificial Neural Mesh V0
-
-Modular multi-agent cognitive architecture with Web-of-Thought style collaboration.
-
-<a href="https://github.com/Abd0r/Artificial-Neural-Mesh-V0"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=39FF14" height="20" alt="GitHub" /></a>
-
-<img src="https://github.com/Abd0r/Abd0r/blob/main/divider_ham.svg?raw=true" alt="pixel divider green-blue" width="100%" />
-
-### <img src="https://github.com/Abd0r/Abd0r/blob/main/HAM_avatar.svg?raw=true" alt="H.A.M" width="22" align="absmiddle" /> `[ H.A.M ]` Hyper-Intuitive Analytical Mechanism
-
-Personal agent on [Hermes Agent](https://github.com/NousResearch/hermes-agent) (Nous Research). Research, coding, PRs, paper tracking - early stage.
-
-<img src="https://github.com/Abd0r/Abd0r/blob/main/divider_ham.svg?raw=true" alt="pixel divider green-blue" width="100%" />
+<img src="https://github.com/Abd0r/Abd0r/blob/main/divider_ham.svg?raw=true" alt="" width="100%" />
 
 <div align="center">
-  <img src="https://github.com/Abd0r/Abd0r/blob/main/nanog_avatar.svg?raw=true" alt="NanoG1 cell icon" width="120" />
+  <img src="https://github.com/Abd0r/Abd0r/blob/main/nanog_avatar.svg?raw=true" alt="NanoG1" width="100" />
   <br/>
-  <code>&gt; NANOG1 :: ~200-300M param cancer foundation model path (histopathology, radiology, TCGA) via Quatrix</code>
-  <br/><br/>
-  <img src="https://github.com/Abd0r/Abd0r/blob/main/loading_bar.svg?raw=true" alt="loading bar" width="220" />
+  <code>NANOG1 :: ~200-300M cancer foundation path (histo / radiology / TCGA) via Quatrix</code>
   <br/>
-  <code>&gt; still training, still loading</code>
+  <img src="https://github.com/Abd0r/Abd0r/blob/main/loading_bar.svg?raw=true" alt="loading" width="200" />
+  <br/>
+  <code>still training, still loading</code>
 </div>
 
 ---
 
-Any amount helps. Monthly or one-time - both keep independent open research moving.
+Any amount helps. Monthly or one-time — both keep independent open research moving.
 ```
 
 ---
