@@ -95,7 +95,7 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 
 ### <img src="https://github.com/Abd0r/Abd0r/blob/main/PORCUPINE_avatar.svg?raw=true" alt="PORCUPINE icon: pixel terminal agent" width="28" align="absmiddle" /> `[ PORCUPINE ]` Terminal-First Coding Agent
 
-A terminal coding agent on top of [Porcupine](https://github.com/Abd0r/porcupineai) — my own harness. Sub-agents + live Web-of-Thought messaging, Ask / Normal / Auto permission modes, autonomous learning with evidence, snapshots and rollback, MCP client, 48 skills across 17 stacks. Ships as one npm package.
+Autonomous terminal coding agent. Sub-agents with live Web-of-Thought messaging, Ask/Normal/Auto permission modes, evidence-backed learning with rollback, MCP client, 48 skills across 17 stacks — one npm package.
 
 <a href="https://github.com/Abd0r/porcupineai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0A0D0C?style=for-the-badge&logo=github&logoColor=00F5D4"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GITHUB-E8EAE9?style=for-the-badge&logo=github&logoColor=0B8A78"><img src="https://img.shields.io/badge/GITHUB-0A0D0C?style=for-the-badge&logo=github&logoColor=00F5D4" height="20" alt="GITHUB badge"/></picture></a>
 &nbsp;
