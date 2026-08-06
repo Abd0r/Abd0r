@@ -93,7 +93,7 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 
 ## `[ PORCUPINE ]`
 
-### `[ PORCUPINE ]` Terminal-First Coding Agent
+### Terminal-First Coding Agent
 
 Autonomous terminal coding agent. Sub-agents with live Web-of-Thought messaging, Ask/Normal/Auto permission modes, evidence-backed learning with rollback, MCP client, 48 skills across 17 stacks — one npm package.
 
