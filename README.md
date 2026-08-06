@@ -89,7 +89,7 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 
 </details>
 
-<img src="https://github.com/Abd0r/Abd0r/blob/main/divider_porcupine.svg?raw=true" alt="pixel divider green-blue lightning" width="100%" />
+<img src="https://github.com/Abd0r/Abd0r/blob/main/divider_porcupine.svg?raw=true" alt="pixel divider neon-teal lightning" width="100%" />
 
 ## <img src="https://github.com/Abd0r/Abd0r/blob/main/text_PORCUPINE.svg?raw=true" alt="PORCUPINE section heading" height="46" />
 
@@ -101,7 +101,7 @@ Autonomous terminal coding agent. Sub-agents with live Web-of-Thought messaging,
 &nbsp;
 <a href="https://www.npmjs.com/package/@porcupineai/porcupineai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NPM-0A0D0C?style=for-the-badge&logo=npm&logoColor=00F5D4"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/NPM-E8EAE9?style=for-the-badge&logo=npm&logoColor=0B8A78"><img src="https://img.shields.io/badge/NPM-0A0D0C?style=for-the-badge&logo=npm&logoColor=00F5D4" height="20" alt="NPM badge"/></picture></a>
 
-<img src="https://github.com/Abd0r/Abd0r/blob/main/divider_porcupine.svg?raw=true" alt="pixel divider green-blue lightning" width="100%" />
+<img src="https://github.com/Abd0r/Abd0r/blob/main/divider_porcupine.svg?raw=true" alt="pixel divider neon-teal lightning" width="100%" />
 
 <div align="center">
   <img src="https://github.com/Abd0r/Abd0r/blob/main/nanog_avatar.svg?raw=true" alt="NanoG1 project icon: animated cell with nucleus" width="140" />
