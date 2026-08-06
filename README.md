@@ -91,7 +91,7 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 
 <img src="https://github.com/Abd0r/Abd0r/blob/main/divider_porcupine.svg?raw=true" alt="pixel divider neon-teal lightning" width="100%" />
 
-## `[ PORCUPINE ]`
+## <img src="https://github.com/Abd0r/Abd0r/blob/main/text_PORCUPINE.svg?raw=true" alt="PORCUPINE section heading" height="46" />
 
 ### Terminal-First Coding Agent
 
