@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+  <rect width="64" height="64" fill="none"/>
+  <!-- pixel terminal window -->
+  <g fill="#00F5D4">
+    <!-- window bar -->
+    <rect x="6" y="6" width="52" height="8"/>
+    <!-- screen with blocky prompt + cursor -->
+    <rect x="8" y="18" width="4" height="4"/>
+    <rect x="14" y="18" width="20" height="4"/>
+    <rect x="8" y="26" width="8" height="4"/>
+    <rect x="18" y="26" width="32" height="4"/>
+    <rect x="8" y="34" width="26" height="4"/>
+    <rect x="36" y="34" width="14" height="4"/>
+    <rect x="8" y="42" width="6" height="4"/>
+    <rect x="16" y="42" width="2" height="4"/>
+    <!-- blinking cursor block -->
+    <rect x="46" y="42" width="4" height="4" fill="#E8EAE9">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <!-- spiky porcupine crown -->
+  <g fill="#0B8A78">
+    <rect x="8" y="2" width="4" height="4"/><rect x="14" y="0" width="4" height="4"/>
+    <rect x="20" y="2" width="4" height="4"/><rect x="26" y="0" width="4" height="4"/>
+    <rect x="32" y="2" width="4" height="4"/><rect x="38" y="0" width="4" height="4"/>
+    <rect x="44" y="2" width="4" height="4"/><rect x="50" y="0" width="4" height="4"/>
+  </g>
+</svg>
