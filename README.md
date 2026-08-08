@@ -91,7 +91,7 @@ Fine-tuning that skips samples the model already knows. Compute is routed to har
 
 <img src="https://github.com/Abd0r/Abd0r/blob/main/divider_porcupine.svg?raw=true" alt="pixel divider neon-teal lightning" width="100%" />
 
-### <img src="https://github.com/Abd0r/Abd0r/blob/main/PORCUPINE_avatar.svg?raw=true" alt="PORCUPINE icon: pixel terminal agent" width="28" align="absmiddle" /> Terminal-First Coding Agent
+### <img src="https://github.com/Abd0r/Abd0r/blob/main/PORCUPINE_avatar.svg?raw=true" alt="PORCUPINE icon: pixel terminal agent" width="28" align="absmiddle" /> Porcupine
 
 Autonomous terminal coding agent. Sub-agents with live Web-of-Thought messaging, Ask/Normal/Auto permission modes, evidence-backed learning with rollback, MCP client, 48 skills across 17 stacks — one npm package.
 
