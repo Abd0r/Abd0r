@@ -14,7 +14,7 @@ Assets live in this repo (`Abd0r/Abd0r`) so paths match the profile README.
 ## Short description (≤160 chars recommended)
 
 ```
-17 · open AI research · NanoG1 · Quatrix/FEA/GEKO · compute + time for independent OSS
+17 · open AI research · Porcupine agent · NanoG1 · Quatrix/FEA/GEKO · compute + time for independent OSS
 ```
 
 ---
@@ -36,20 +36,24 @@ Assets live in this repo (`Abd0r/Abd0r`) so paths match the profile README.
 
 ## Why sponsor
 
-**Syed Abdur Rehman Ali** (`@Abd0r`) — 17, India, independent AI researcher. No lab. Solo work on architectures (Quatrix / SAVO / Q-Compass, FEA, GEKO) and **NanoG1** (cancer foundation model path). Open source when it helps.
+**Syed Abdur Rehman Ali** (`@Abd0r`) — 17, India, independent AI researcher. No lab. Solo work on [Porcupine](https://github.com/Abd0r/porcupineai) (the open-source safe-autonomy agent), architectures (Quatrix / SAVO / Q-Compass, FEA, GEKO) and **NanoG1** (cancer foundation model path). Open source when it helps.
 
 Sponsorship buys **time and compute** a 6GB-laptop stack cannot invent.
 
 ## Where money goes
 
+- Porcupine development + benchmark compute (the trust-first open agent, MIT)
 - Compute for NanoG1 + Quatrix ablations  
 - Datasets / storage for multimodal oncology work  
-- Paper + OSS maintenance (FEA, Quatrix, GEKO, Hermes Agent)  
+- Paper + OSS maintenance (FEA, Quatrix, GEKO, Porcupine)  
 - Keeping research public when licenses allow  
 
 <img src="https://github.com/Abd0r/Abd0r/blob/main/divider.svg?raw=true" alt="" width="100%" />
 
 ## Active work
+
+### <img src="https://github.com/Abd0r/Abd0r/blob/main/PORCUPINE_avatar.svg?raw=true" width="28" align="absmiddle" alt="PORCUPINE icon: pixel terminal agent" /> Porcupine
+Safe autonomous AI agent, terminal-first. Sub-agents with live Web-of-Thought messaging, Ask/Normal/Auto permission modes, evidence-backed learning with rollback, MCP client, 64 skills across 18 stacks. Published harness results: Aider Polyglot 86.2%, Terminal-Bench 80.8% (DeepSeek V4 Flash). [GitHub](https://github.com/Abd0r/porcupineai) · [npm](https://www.npmjs.com/package/@porcupineai/porcupineai)
 
 ### <img src="https://github.com/Abd0r/Abd0r/blob/main/FEA_avatar.svg?raw=true" width="20" align="absmiddle" alt="" /> FEA
 Transistor-free computing on H-passivated silicon. [GitHub](https://github.com/Abd0r/FEA) · [Zenodo](https://doi.org/10.5281/zenodo.19559255)
